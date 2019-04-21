@@ -1,47 +1,103 @@
 body,html{
-    height: 100%;
+    height: 100%
     margin:0 auto;
 }   
 .section1{
     background: url(../img/Background-kapoci.jpg);
     width: 100%;
     height: 100%;
-    padding: 180px;
+    padding: 160px;
     text-align: center;
-    background-size: cover
+    background-size :cover
+    
 }
 .Judul1{
-    font-family: sans-serif;
-    font-weight: 1000;
+    font-family: calibri;
+    font-weight: 800;
     font-size: 50px;
-    color: black;   
+    color:black;   
 }
-.sub-Judul{
-    font-family: sans-serif;
+.sub judul{
+    font-family: calibri;
     font-weight: 600;
-    font-size: 50px;
-    color: black;  
+    font-size: 20px;
+    color:black;
     
 }
 .section2{
-    padding:100px 0px;
-    background: white;
+    padding:50px 0px;
+    background: papayawhip;
+    text-align: justify;
+    font-family: vijaya;
+    font-weight: 300;
+    font-size: 20px;
+    
 }
 .col-kiri{
-    background:wheat ;
+    background:white ;
+
+}
+.col{
+    background: white ;
+    text-align: justify;
+    
 }
 .col-kanan{
     background: white;
 }
 .section3{
+    min-height: 30px;
+    padding: 50px 0px;
+    background: papayawhip;
+    font-family: calibri;
+    font-weight: 600;
+    font-size: 28px;
+    column-rule-color: papayawhip
+}
+.section4{
     min-height: 360px;
-    padding : 100px 0px;
-    background : white;
+    padding : 50px 0px;
+    background : peachpuff;
+    font-family: vijaya;
+    font-weight: 500;
+    font-size: 26px;
+}
+.section5{
+    min-height: 360px;
+    padding: 50px 0px;
+    background: papayawhip;
+    font-family: vijaya;
+    font-weight: 500;
+    font-size: 26px;
+}
+.section6{
+    min-height: 360px;
+    padding: 50px 0px;
+    background: bisque;
+    font-family: vijaya;
+    font-weight: 500;
+    font-size: 26px;
+}
+.section7{
+    min-height: 360px;
+    padding: 50px 0px;
+    background: navajowhite;
+    font-family: vijaya;
+    font-weight: 500;
+    font-size: 26px;
+}
+.section8{
+    min-height: 30px;
+    padding: 50px 0px;
+    background: lightgray;
+    font-family: calibri;
+    font-weight: 600;
+    font-size: 20px;
 }
 .link{
     padding: 10px 15px;
     color : black;
 }
 .link:hover{
-    background : wheat;
+    background : antiquewhite;
 }
