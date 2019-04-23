@@ -90,8 +90,8 @@ height:250px;
 }
 .section4{
     min-height: 360px;
-    padding: 50px 0px;
-    background: goldenrod;
+    padding : 50px 0px;
+    background : goldenrod;
     font-family: vijaya;
     font-weight: 500;
     font-size: 26px;
@@ -112,6 +112,29 @@ height:250px;
     background:goldenrod;
 }
 .section5{
+    min-height: 360px;
+    padding: 50px 0px;
+    background: darkgoldenrod;
+    font-family: vijaya;
+    font-weight: 500;
+    font-size: 26px;
+}
+.Judul5{
+    font-family: Agency FB;
+    font-weight: 600;
+    font-size: 30px;
+    color:black;   
+}
+.sub-judul5{
+    font-family: vijaya;
+    font-weight: 300;
+    font-size: 30px;
+    color: black;   
+}
+.col-kiri4{
+    background:darkgoldenrod;
+}
+.section6{
     min-height: 30px;
     padding: 10px 0px;
     background: black;
@@ -120,7 +143,7 @@ height:250px;
     font-size: 20px;
     color:white; 
 }
-.col-kiri4{
+.col-kiri5{
     background:black;
 }
 .link{
